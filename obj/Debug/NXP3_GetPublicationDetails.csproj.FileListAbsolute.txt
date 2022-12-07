@@ -1,0 +1,12 @@
+C:\soumava\work\code\DOCS\nxp DOCS Export\Soumava code\NXP 3\NXP3_GetPublicationDetails\bin\Debug\NXP3_GetPublicationDetails.exe.config
+C:\soumava\work\code\DOCS\nxp DOCS Export\Soumava code\NXP 3\NXP3_GetPublicationDetails\bin\Debug\NXP3_GetPublicationDetails.exe
+C:\soumava\work\code\DOCS\nxp DOCS Export\Soumava code\NXP 3\NXP3_GetPublicationDetails\bin\Debug\NXP3_GetPublicationDetails.pdb
+C:\soumava\work\code\DOCS\nxp DOCS Export\Soumava code\NXP 3\NXP3_GetPublicationDetails\bin\Debug\System.ServiceModel.Primitives.dll
+C:\soumava\work\code\DOCS\nxp DOCS Export\Soumava code\NXP 3\NXP3_GetPublicationDetails\bin\Debug\System.ServiceModel.Security.dll
+C:\soumava\work\code\DOCS\nxp DOCS Export\Soumava code\NXP 3\NXP3_GetPublicationDetails\bin\Debug\System.ServiceModel.Primitives.pdb
+C:\soumava\work\code\DOCS\nxp DOCS Export\Soumava code\NXP 3\NXP3_GetPublicationDetails\bin\Debug\System.ServiceModel.Security.pdb
+C:\soumava\work\code\DOCS\nxp DOCS Export\Soumava code\NXP 3\NXP3_GetPublicationDetails\obj\Debug\NXP3_GetPublicationDetails.csprojAssemblyReference.cache
+C:\soumava\work\code\DOCS\nxp DOCS Export\Soumava code\NXP 3\NXP3_GetPublicationDetails\obj\Debug\NXP3_GetPublicationDetails.csproj.CoreCompileInputs.cache
+C:\soumava\work\code\DOCS\nxp DOCS Export\Soumava code\NXP 3\NXP3_GetPublicationDetails\obj\Debug\NXP3_GetPublicationDetails.csproj.CopyComplete
+C:\soumava\work\code\DOCS\nxp DOCS Export\Soumava code\NXP 3\NXP3_GetPublicationDetails\obj\Debug\NXP3_GetPublicationDetails.exe
+C:\soumava\work\code\DOCS\nxp DOCS Export\Soumava code\NXP 3\NXP3_GetPublicationDetails\obj\Debug\NXP3_GetPublicationDetails.pdb
